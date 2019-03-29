@@ -2,23 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Welcome to my GitHub Page
 
-[Link to another page](./another-page.html).
+This page contains some of my code that's available to share/modify/redistribute. If you find these projects to be of value to you, please drop me a line and let me know. 
 
-There should be whitespace between paragraphs.
+## D2L Instructor Widget
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This LTI widget allows instructors to quickly and easily add a picture of themselves and information such as name, email address, phone number, office number, office hours, and a brief bio to their course home page. The widget uses the course OU number to query a database on the remote site. If the OU exists as a primary key in the database, the widget displays the instructor's information to the students or the information plus an edit button to the instructor. If it does not already exist in the database, then the students would see an "under construction" message and the instructor would see the form to complete with their information.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[To Project Page](https://github.com/wbreau/D2L_Instructor_Widget).
 
 ### Header 3
 
