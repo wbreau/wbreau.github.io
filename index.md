@@ -13,12 +13,15 @@ This LTI widget allows instructors to quickly and easily add a picture of themse
 ### Screenshots
 
 ![Empty Instructor Widget Instructor View](https://wbreau.github.io/images/instwidget_empty.png)
+
 Figure 1: Instructor view of the Instructor Widget prior to being completed.
 
 ![Completed Instructor Widget Instructor View](https://wbreau.github.io/images/instwidget_full.png)
+
 Figure 2: Instructor view of the Instructor Widget after being completed.
 
 ![Empty Instructor Widget Student View](https://wbreau.github.io/images/instwidget_studentview.png)
+
 Figure 3: Student view of the Instructor Widget prior to being completed.
 
 ### Link To Project Page
@@ -32,15 +35,19 @@ This widget displays instructor focused tutorial videos to users in the instruct
 ### Screenshots
 
 ![Tutorial Widget Instructor View Initial](https://wbreau.github.io/images/tutwidget_fac_initial.png)
+
 Figure 1: Initial instructor view of the tutorial widget.
 
 ![Tutorial Widget Instructor View Open](https://wbreau.github.io/images/tutwidget_fac_open.png)
+
 Figure 2: Instructor view of the tutorial widget with one topic open.
 
 ![Tutorial Widget Student View Initial](https://wbreau.github.io/images/tutwidget_student_initial.png)
+
 Figure 3: Initial student view of the tutorial widget.
 
 ![Tutorial Widget Student View Open](https://wbreau.github.io/images/tutwidget_student_open.png)
+
 Figure 4: Student view of the tutorial widget with one topic open.
 
 
